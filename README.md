@@ -1,2 +1,2 @@
-# Coursera-testing
+# datasciencecoursera
 Learning how to use Github
